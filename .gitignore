@@ -1,3 +1,5 @@
+**/__pycache__
+**/*.pyc
 subtitles.txt
 subtitles/**
 subtitles-selected/**
